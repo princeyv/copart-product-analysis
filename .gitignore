@@ -1,0 +1,12 @@
+# Ignore python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore raw data files (Too large for GitHub)
+data/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
